@@ -1,4 +1,4 @@
-# AI Expense Tracker
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/6ceab983-ba6e-442d-9ebd-2c9b29b92df1" /># AI Expense Tracker
 
 A full-stack expense tracking application with AI-powered insights, built using the PERN stack (PostgreSQL, Express, React, Node.js).
 
@@ -92,13 +92,12 @@ npm run dev
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app here)*
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/2efa47cc-3778-4657-93c5-7a4163a0a539" />
 
-## 🚀 Future Improvements
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/fbb33b57-00e5-4989-8f9a-2629800252e8" />
 
-- Add expense analytics/charts
-- Export expenses to CSV/PDF
-- Multi-currency support
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/a803c7b8-d961-4ddb-bca1-b0bed3c2dd4b" />
+
 
 ## 👤 Author
 
